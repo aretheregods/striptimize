@@ -1,16 +1,25 @@
 ---
-title: 'Second post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 15 2022'
-heroImage: '/blog-placeholder-4.jpg'
+title: Don't Lose Sales Over Speed
+description: How Website Performance Impacts Your Bottom Line
+pubDate: Jul 03 2024
+heroImage: '/fast_money.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+In today's fast-paced world, patience is a rare commodity. This applies tenfold to the online experience. People expect websites to load quickly and function smoothly. If your website takes too long to load or is difficult to navigate, visitors will bounce and head straight to your competitor. This translates to lost sales and missed opportunities.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Here's why website performance is directly linked to your business profits:
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+1. Speed is King: Studies show that a one-second delay in page load time can lead to a 7% reduction in conversions [source: Why your website speed and performance are costing you business - Mlytics].  People simply won't wait around for a slow website.
+1. Happy Users, Happy Profits: A well-performing website provides a positive user experience. Visitors can find the information they need quickly and easily, which increases engagement and the likelihood of them converting into paying customers.
+1. Search Engine Love:  Search engines like Google prioritize fast-loading websites in their rankings. This means a slow website gets buried in search results, making it harder for potential customers to find you.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+## Investing in Website Performance Pays Off
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+Here are some ways to improve your website's performance and boost your bottom line:
+
+1. Optimize Images: Large image files can significantly slow down your website. Use tools to compress images without sacrificing quality.
+1. Minify Code:  Minifying your website's code removes unnecessary characters and formatting, making it smaller and faster to load.
+1. Leverage a Content Delivery Network (CDN): A CDN stores your website's content on servers around the world. This ensures faster loading times for visitors regardless of their location.
+1. Mobile-Friendliness is Non-Negotiable:  Make sure your website is responsive and optimized for mobile devices. A significant portion of web traffic now comes from smartphones and tablets.
+
+By investing in website performance, you're not just improving user experience, you're directly impacting your profits. Remember, a fast and user-friendly website is an essential tool for converting visitors into customers and driving business growth.
